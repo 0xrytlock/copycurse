@@ -1,4 +1,4 @@
-![Version 1.0](http://img.shields.io/badge/version-v0.0.1-green.svg)
+![Version 1.0](http://img.shields.io/badge/version-v0.0.2-green.svg)
 ![Python 3.10](http://img.shields.io/badge/python-3.10-blue.svg)
 [![MIT License](http://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/0xrytlock/copycurse/blob/main/LICENSE)
 
