@@ -60,7 +60,7 @@ def banner(source_path, destination_path):
   / __|___ _ __ _  _ / __|  _ _ _ ___ ___ 
  | (__/ _ \ '_ \ || | (_| || | '_(_-</ -_)
   \___\___/ .__/\_, |\___\_,_|_| /__/\___|
-          |_|   |__/          by 0xrytlock                 
+          |_|   |__/           by njordice                 
 """)
     print(f"+ Source DIR: {source_path}\n\n"
           f"+ Destination DIR: {destination_path}\n\n"
